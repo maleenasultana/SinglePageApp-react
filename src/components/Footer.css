@@ -30,7 +30,12 @@ body {
   /* FOOTER STYLES
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
   .cform{
-   margin-left: 60%;
+   margin-left: 50%;
+
+  }
+  .cform:hover{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
   }
   .form-control{
     display: flex;
@@ -40,6 +45,10 @@ body {
   .form-label{
     margin-left: 40%;
 
+  }
+  .form-control:hover{
+   border-radius: 15px;
+    box-shadow: 5px 5px  gray;
   }
   .btn{
     margin-left: 100%;
