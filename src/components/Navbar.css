@@ -1,0 +1,13 @@
+.navbar-brand{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: italic;
+background-image: linear-gradient(orange,red);
+padding: 5px;
+}
+.nav-link{
+    font-weight: 600;
+
+}
+.nav-link:hover{
+  font-size: larger;
+}

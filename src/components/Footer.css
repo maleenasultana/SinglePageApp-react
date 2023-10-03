@@ -1,0 +1,46 @@
+.form{
+    background-color: aliceblue;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+
+
+}
+.heading{
+    font-weight: bolder;
+    text-align:  center;
+}
+.btn{
+    background-image: linear-gradient(orange, rgb(219, 46, 75));
+    width: 400px;
+    margin-left: 100px;
+    border-radius: 15px;
+    box-shadow: gray 5px 5px 5px;
+    
+}
+.form-control{
+    width: 600px;
+    box-shadow: lightgray 2px 2px;
+}
+body {
+    background: #fafbfb;
+  }
+  
+  
+  /* FOOTER STYLES
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+  .cform{
+   margin-left: 60%;
+  }
+  .form-control{
+    display: flex;
+    justify-content: center;
+   margin-left: 40%;
+  }
+  .form-label{
+    margin-left: 40%;
+
+  }
+  .btn{
+    margin-left: 100%;
+  }

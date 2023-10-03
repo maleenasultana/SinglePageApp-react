@@ -1,0 +1,11 @@
+
+.bolder{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.card-img-top:hover{
+    width:min-content;
+    background-color: lightgray;
+    transition: all 1.ms ease-in-out;
+}
