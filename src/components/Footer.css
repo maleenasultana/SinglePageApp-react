@@ -53,3 +53,7 @@ body {
   .btn{
     margin-left: 100%;
   }
+  .btn:hover{
+    border-radius:100px;
+    box-shadow: 5px 5px  rgb(196, 243, 126);
+  }
