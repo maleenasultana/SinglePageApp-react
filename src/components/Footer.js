@@ -6,7 +6,7 @@ function Footer() {
     <div className="container my-5 justify-content-center">
   <div className=" justify-content-center">
     <div className="col-lg-9">
-      <h1 className="cform mb-3">Contact Us</h1>
+      <h1 className="cform mb-3">Your Contact Info :</h1>
       <form>
         <div className="row">
           <div className="col">
